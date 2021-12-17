@@ -1,0 +1,6 @@
+[8/13/2021, 3:16:30 AM] layer "support@bffphotobooths.com": Unsupported extension: com
+[8/13/2021, 3:16:30 AM] layer "+833 233 4386": Expected Either a default asset specification or a layer asset specification but "+" found.
+[8/13/2021, 3:16:30 AM] layer "support@bffphotobooths.com": Unsupported extension: com
+[8/13/2021, 3:16:30 AM] layer "+833 233 4386": Expected Either a default asset specification or a layer asset specification but "+" found.
+[8/13/2021, 3:16:30 AM] layer "+833 233 4386": Expected Either a default asset specification or a layer asset specification but "+" found.
+[8/13/2021, 3:16:30 AM] layer "support@bffphotobooths.com": Unsupported extension: com
